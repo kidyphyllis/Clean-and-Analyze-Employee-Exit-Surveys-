@@ -5,17 +5,18 @@ In this project, we'll work with exit surveys from employees of the Department o
 The aim of this project is we want to know the following:
 Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
-Table of Contents
 
-Introdution
-Read the dataset
-Identify Missing Values and Drop Unnecessary Columns
-Clean Column Names
-Filter the Data
-Verify the Dates Data
-Create a New Column
-Identify Dissatisfied Employees
-Combine the Data
-Perform Initial Analysis
-Investigating Dissatisfaction among different Age Groups
-Investigating Dissatisfaction among Different Employment Positions
+# Table of Contents
+
+- Introdution
+- Read the dataset
+- Identify Missing Values and Drop Unnecessary Columns
+- Clean Column Names
+- Filter the Data
+- Verify the Dates Data
+- Create a New Column
+- Identify Dissatisfied Employees
+- Combine the Data
+- Perform Initial Analysis
+- Investigating Dissatisfaction among different Age Groups
+- Investigating Dissatisfaction among Different Employment Positions
